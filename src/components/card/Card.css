@@ -1,0 +1,46 @@
+.card {
+    margin: 0 10px 18px 10px;
+    padding: 14px 16px;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background: #878888;
+    width: 290px;
+    height: 280px;
+}
+
+.dark-card {
+    background: #424949;
+}
+
+.title-btnFav {
+    display: flex;
+    justify-content: center;
+}
+
+.title-btnFav button {
+    margin-left: 15px;
+}
+
+.content-card {
+    margin-top: 12px;
+}
+
+.more-info {
+    margin-top: 14px;
+}
+
+.img-dentista {
+    width: 120px;
+    border-radius: 50%;
+    position: relative;
+    left: 14px;
+}
+
+.btn-fav {
+    font-size: 25px;
+    position: relative;
+    left: 44px;
+}

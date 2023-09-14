@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    margin-right: 32px;
+}
+
+.menu li {
+    margin: auto 12px;
+}
+
+.menu li a {
+    color: #000;
+}
+
+.menu li a:hover {
+    text-decoration: underline;
+}
